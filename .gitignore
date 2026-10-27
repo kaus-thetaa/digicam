@@ -1,0 +1,10 @@
+.pio/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+*.log
+tempCodeRunnerFile.cpp
